@@ -1,0 +1,4 @@
+make the boards brocast a ble (get their ranges)
+build a android app using kotlin(shitty java) (build a sketch of the room and where the boards are located 
+use math to calculate distane
+(if possible make a website that can communcaite with the boards for apple (fuck appale and their apps(also I hate swift(I think))) 
